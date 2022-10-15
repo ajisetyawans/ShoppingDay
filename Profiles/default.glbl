@@ -24,4 +24,9 @@
       <initValue>5</initValue>
       <name>G_ShortTimeOut</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/HappyDayShopping.apk'</initValue>
+      <name>G_HDS</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
