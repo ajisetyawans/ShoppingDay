@@ -39,6 +39,18 @@ Mobile.tap(findTestObject('Happy Day Shopping Exercise/BackButtonPromo1'), 0)
 
 Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
+Mobile.tap(findTestObject('Happy Day Shopping Exercise/PromoSebo'), 0)
+
+Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Happy Day Shopping Exercise/AddtoBagSebo'), 0)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
+Mobile.tap(findTestObject('Happy Day Shopping Exercise/BackButtonPromo1'), 0)
+
+Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
+
 Mobile.tap(findTestObject('Happy Day Shopping Exercise/BackButtonPromo2'), 0)
 
 Mobile.delay(3, FailureHandling.STOP_ON_FAILURE)
